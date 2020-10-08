@@ -1,9 +1,9 @@
-##Rough Outline
+# Rough Outline #
 
-**Introduction**
+## Introduction: ##
   **
 
-**Background and Topic Prerequisites**
+## Background and Topic Prerequisites: ##
   *Optical Character Recognition is a technology used to identify text within images like documents and photos. Its function is to convert any image containing written text (typed, handwritten or printed) into machine-readable text data.
 
   The first OCR tools in modern history were developed in the early-to-mid 1900’s, but the ideas were brewing for years before that.The Nipkow Disk was an image scanning device all the way back in 1885. Later devices started by interpreting Morse Code to read text aloud. The first scanners capable of reading text required that the text be in a special font that was easy for the scanning software to recognize. In 1974, Kurzweil Computer Products developed the first omni-font software.
@@ -25,15 +25,15 @@
     4. Sklearn
     5. Pillow
 
-**The Topic**
+## The Topic: ##
   *Developing a script that uses handwritten character recognition to make tasks, such as, grocery shopping less tedious.*
 
-**Topic Implementation**
+## Topic Implementation: ##
   *Given an image of a grocery list, the script should:*
     - take the uploaded image
     - be able to recognize characters
     - insert bounding boxes around those characters
     - allow the user a way to mark through, or give some indication that this item is secured
 
-**Conclusions**
+## Conclusions ##
   **
