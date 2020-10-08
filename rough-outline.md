@@ -13,7 +13,7 @@
 
   By moving the processing from the scanner (or the computer it was attached to) up into the cloud allowed OCR to shift from being a product to becoming a service.
 
-  Their(Companies) large volumes of paper files are being converted into digital format, which improves efficiency, speeds up operations, reduces storage costs, and improves data security. This process is not about simply converting paper documents to digital format. OCR (Optical Character Recognition) Software can help extract important information from the scanned documents and store the data in such a way that it is easily available.
+  Their(Companies) large volumes of paper files are being converted into digital format, which improves efficiency, speeds up operations, reduces storage costs, and improves data security. This process is not about simply converting paper documents to digital format. OCR (Optical Character Recognition) Software can help extract important information from the scanned documents and store the data in such a way that it is easily available.*
     * https://docparser.com/blog/what-is-ocr/
     * https://www.cloud-trade.com/2019/03/19/a-brief-history-of-ocr/#:~:text=OCR%20traces%20its%20roots%20back,first%20electronic%20document%20retrieval%20system.
     * https://blog.filestack.com/thoughts-and-knowledge/history-of-ocr/
