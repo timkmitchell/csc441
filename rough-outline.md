@@ -1,7 +1,7 @@
 # Rough Outline #
 
 ## Introduction: ##
-  **
+  *Brief description of how grocery lists are useful. Cuts down on unnecessary purchases which in turn saves money; Gives you focus; helps with meal plans; saves time and energy. Problems?: carrying the paper around, taking time to scratch each item with an irreversible mark. Fixes?: going digital helps free space, instead of big tablet or papers, use phone that you carry everywhere anyway; more likely to lose track of paper or notebook, but not phone; frees up space; easy categorization of food types, allows for an undo if you scratched out the wrong product.*
 
 ## Background and Topic Prerequisites: ##
   Optical Character Recognition is a technology used to identify text within images like documents and photos. Its function is to convert any image containing written text (typed, handwritten or printed) into machine-readable text data.
