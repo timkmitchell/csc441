@@ -3,8 +3,8 @@
 ## Introduction ##
   1. What is a brief definition of the topic?
 
-    >>>Essentially, I am creating a piece of software that allows an individual to manage an uploaded handwritten grocery list.
-    >>>The should allow them to mark out selected items, categorize items, etc.*
+    Essentially, I am creating a piece of software that allows an individual to manage an uploaded handwritten grocery list.
+    This should allow them to mark out selected items, categorize items, etc.*
 
   2. Why should I read your paper about this topic?
 
