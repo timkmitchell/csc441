@@ -118,7 +118,7 @@
   1. What did you discuss?
 
     *How OCR can provide us convenience in our everyday lives. The difficulties
-    concerning OCR.The importance convenience has on people, Why shoppers need
+    concerning OCR. The importance convenience has on people, Why shoppers need
     convenience, and how we can combine shopping with OCR to bring that
     convenience to the consumer.*
 
